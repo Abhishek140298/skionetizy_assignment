@@ -1,0 +1,41 @@
+.read_main_div{
+	display: flex;
+	margin-left: 10px;
+	background-color: maroon;
+	width: fit-content;
+	padding-left: 10px;
+	margin-bottom: 3px;
+}
+.user-image{
+	width: 73px;
+	height: 70px;
+	border-radius: 50%;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+.name_comment_box{
+	display: flex;
+	flex-direction: column;
+	
+}
+.user_name{
+margin-left: 10px;
+margin-bottom: 10px;
+}
+.update_outer_span{margin-left: 10px;
+margin-bottom: 10px;}
+.rd_button_div{
+	display: flex;
+	
+	margin-left: 10px;
+}
+.ud_button{
+	background-color: grey;
+	width: 12vw;
+	height: 4vh;
+	margin-right: 10px;
+	text-align: center;
+	padding-top: 12px;
+border-radius: 8px;
+cursor: pointer;
+}
