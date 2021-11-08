@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skionetizy_assignment/static/css/main.c1a8f0fc.chunk.css",
+    "main.js": "/skionetizy_assignment/static/js/main.ab6153d2.chunk.js",
+    "main.js.map": "/skionetizy_assignment/static/js/main.ab6153d2.chunk.js.map",
+    "runtime-main.js": "/skionetizy_assignment/static/js/runtime-main.78d904a7.js",
+    "runtime-main.js.map": "/skionetizy_assignment/static/js/runtime-main.78d904a7.js.map",
+    "static/js/2.bb6c2a88.chunk.js": "/skionetizy_assignment/static/js/2.bb6c2a88.chunk.js",
+    "static/js/2.bb6c2a88.chunk.js.map": "/skionetizy_assignment/static/js/2.bb6c2a88.chunk.js.map",
+    "static/js/3.6ccd8629.chunk.js": "/skionetizy_assignment/static/js/3.6ccd8629.chunk.js",
+    "static/js/3.6ccd8629.chunk.js.map": "/skionetizy_assignment/static/js/3.6ccd8629.chunk.js.map",
+    "index.html": "/skionetizy_assignment/index.html",
+    "static/css/main.c1a8f0fc.chunk.css.map": "/skionetizy_assignment/static/css/main.c1a8f0fc.chunk.css.map",
+    "static/js/2.bb6c2a88.chunk.js.LICENSE.txt": "/skionetizy_assignment/static/js/2.bb6c2a88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d904a7.js",
+    "static/js/2.bb6c2a88.chunk.js",
+    "static/css/main.c1a8f0fc.chunk.css",
+    "static/js/main.ab6153d2.chunk.js"
+  ]
+}
